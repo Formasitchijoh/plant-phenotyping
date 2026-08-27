@@ -1,0 +1,5 @@
+torch
+ultralytics
+datasets
+pillow
+pyyaml
